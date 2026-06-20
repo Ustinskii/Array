@@ -1,0 +1,14 @@
+D:\GitHub\array-16\bin\Debug\net8.0\array-16.exe
+D:\GitHub\array-16\bin\Debug\net8.0\array-16.deps.json
+D:\GitHub\array-16\bin\Debug\net8.0\array-16.runtimeconfig.json
+D:\GitHub\array-16\bin\Debug\net8.0\array-16.dll
+D:\GitHub\array-16\bin\Debug\net8.0\array-16.pdb
+D:\GitHub\array-16\obj\Debug\net8.0\array-16.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\array-16\obj\Debug\net8.0\array-16.AssemblyInfoInputs.cache
+D:\GitHub\array-16\obj\Debug\net8.0\array-16.AssemblyInfo.cs
+D:\GitHub\array-16\obj\Debug\net8.0\array-16.csproj.CoreCompileInputs.cache
+D:\GitHub\array-16\obj\Debug\net8.0\array-16.dll
+D:\GitHub\array-16\obj\Debug\net8.0\refint\array-16.dll
+D:\GitHub\array-16\obj\Debug\net8.0\array-16.pdb
+D:\GitHub\array-16\obj\Debug\net8.0\array-16.genruntimeconfig.cache
+D:\GitHub\array-16\obj\Debug\net8.0\ref\array-16.dll
