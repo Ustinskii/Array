@@ -12,3 +12,17 @@ D:\GitHub\array-16\obj\Debug\net8.0\refint\array-16.dll
 D:\GitHub\array-16\obj\Debug\net8.0\array-16.pdb
 D:\GitHub\array-16\obj\Debug\net8.0\array-16.genruntimeconfig.cache
 D:\GitHub\array-16\obj\Debug\net8.0\ref\array-16.dll
+c:\Users\User\Videos\massiv\array-16\bin\Debug\net8.0\array-16.exe
+c:\Users\User\Videos\massiv\array-16\bin\Debug\net8.0\array-16.deps.json
+c:\Users\User\Videos\massiv\array-16\bin\Debug\net8.0\array-16.runtimeconfig.json
+c:\Users\User\Videos\massiv\array-16\bin\Debug\net8.0\array-16.dll
+c:\Users\User\Videos\massiv\array-16\bin\Debug\net8.0\array-16.pdb
+c:\Users\User\Videos\massiv\array-16\obj\Debug\net8.0\array-16.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Videos\massiv\array-16\obj\Debug\net8.0\array-16.AssemblyInfoInputs.cache
+c:\Users\User\Videos\massiv\array-16\obj\Debug\net8.0\array-16.AssemblyInfo.cs
+c:\Users\User\Videos\massiv\array-16\obj\Debug\net8.0\array-16.csproj.CoreCompileInputs.cache
+c:\Users\User\Videos\massiv\array-16\obj\Debug\net8.0\array-16.dll
+c:\Users\User\Videos\massiv\array-16\obj\Debug\net8.0\refint\array-16.dll
+c:\Users\User\Videos\massiv\array-16\obj\Debug\net8.0\array-16.pdb
+c:\Users\User\Videos\massiv\array-16\obj\Debug\net8.0\array-16.genruntimeconfig.cache
+c:\Users\User\Videos\massiv\array-16\obj\Debug\net8.0\ref\array-16.dll
